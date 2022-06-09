@@ -8,11 +8,19 @@ The data that must be used is the output of my previous project [Dementia Featur
 In particular, both the full dataset and the feature group datasets will be needed. The names and the path of each folder are configurable in the "Preliminary Section"
 of the notebook, but the standard (and tested) configuration is this:
 ```
-- baseline_performance.ipynb
-- data
----- feature_dataset.csv
----- separate_dataset
--------- Here there are all the csv files containing the single feature group datasets
+'Project Folder'
+│
+├── baseline_performance.ipynb
+│
+└── data/
+    ├── feature_dataset.csv
+    └── separate_datasets/
+        ├── acoustic_info.csv
+        ├── anagraphic_info.csv
+        ├── discourse_info.csv
+        ├── lexicosyntactic_info.csv
+        ├── psycholinguistic_info.csv
+        └── spatial_info.csv
 ```
 While running the notebook another folder will be created (in the main directory) containing the verbose results of all executions.
 
