@@ -1,0 +1,72 @@
+Decision Trees
+
+Accuracy:          	Avg: 0.340	StdDev: 0.059
+Precision:         	Avg: 0.273	StdDev: 0.043
+Recall:            	Avg: 0.264	StdDev: 0.041
+F1:                	Avg: 0.264	StdDev: 0.039
+
+**********************************************
+
+Linear Discriminant Classifier
+
+Accuracy:          	Avg: 0.344	StdDev: 0.044
+Precision:         	Avg: 0.285	StdDev: 0.034
+Recall:            	Avg: 0.280	StdDev: 0.036
+F1:                	Avg: 0.277	StdDev: 0.036
+
+**********************************************
+
+Logistic Regression
+
+Accuracy:          	Avg: 0.344	StdDev: 0.051
+Precision:         	Avg: 0.281	StdDev: 0.038
+Recall:            	Avg: 0.271	StdDev: 0.041
+F1:                	Avg: 0.270	StdDev: 0.040
+
+**********************************************
+
+Gaussian Naive Bayes
+
+Accuracy:          	Avg: 0.362	StdDev: 0.032
+Precision:         	Avg: 0.297	StdDev: 0.035
+Recall:            	Avg: 0.313	StdDev: 0.031
+F1:                	Avg: 0.284	StdDev: 0.024
+
+**********************************************
+
+Linear Support Vector Classifier
+
+Accuracy:          	Avg: 0.336	StdDev: 0.021
+Precision:         	Avg: 0.302	StdDev: 0.060
+Recall:            	Avg: 0.250	StdDev: 0.028
+F1:                	Avg: 0.218	StdDev: 0.034
+
+**********************************************
+
+KNN Classifier
+
+Accuracy:          	Avg: 0.314	StdDev: 0.049
+Precision:         	Avg: 0.248	StdDev: 0.028
+Recall:            	Avg: 0.243	StdDev: 0.039
+F1:                	Avg: 0.234	StdDev: 0.033
+
+**********************************************
+
+Boosted Trees
+
+Accuracy:          	Avg: 0.434	StdDev: 0.031
+Precision:         	Avg: 0.366	StdDev: 0.011
+Recall:            	Avg: 0.341	StdDev: 0.030
+F1:                	Avg: 0.341	StdDev: 0.024
+
+**********************************************
+
+Bagged Trees
+
+Accuracy:          	Avg: 0.377	StdDev: 0.072
+Precision:         	Avg: 0.315	StdDev: 0.061
+Recall:            	Avg: 0.294	StdDev: 0.058
+F1:                	Avg: 0.297	StdDev: 0.057
+
+**********************************************
+
