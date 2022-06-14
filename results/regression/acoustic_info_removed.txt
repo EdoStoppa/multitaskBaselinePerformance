@@ -16,33 +16,33 @@ R2                 	Avg: -0.047	StdDev: 0.037
 
 Boosted Trees
 
-MAE                	Avg: 3.464	StdDev: 0.117
-RMSE               	Avg: 4.438	StdDev: 0.213
-R2                 	Avg: 0.389	StdDev: 0.030
+MAE                	Avg: 5.839	StdDev: 0.164
+RMSE               	Avg: 8.144	StdDev: 0.211
+R2                 	Avg: -1.058	StdDev: 0.040
 
 ****************************************************************
 
 Bagged Trees
 
-MAE                	Avg: 3.686	StdDev: 0.097
-RMSE               	Avg: 4.501	StdDev: 0.185
-R2                 	Avg: 0.371	StdDev: 0.034
+MAE                	Avg: 3.682	StdDev: 0.094
+RMSE               	Avg: 4.490	StdDev: 0.194
+R2                 	Avg: 0.374	StdDev: 0.034
 
 ****************************************************************
 
 Decision Tree
 
-MAE                	Avg: 4.288	StdDev: 0.183
-RMSE               	Avg: 5.353	StdDev: 0.352
-R2                 	Avg: 0.107	StdDev: 0.127
+MAE                	Avg: 4.375	StdDev: 0.493
+RMSE               	Avg: 5.443	StdDev: 0.596
+R2                 	Avg: 0.079	StdDev: 0.156
 
 ****************************************************************
 
 SVM
 
-MAE                	Avg: 3.786	StdDev: 0.216
-RMSE               	Avg: 4.691	StdDev: 0.213
-R2                 	Avg: 0.315	StdDev: 0.076
+MAE                	Avg: 3.843	StdDev: 0.151
+RMSE               	Avg: 4.770	StdDev: 0.254
+R2                 	Avg: 0.291	StdDev: 0.088
 
 ****************************************************************
 

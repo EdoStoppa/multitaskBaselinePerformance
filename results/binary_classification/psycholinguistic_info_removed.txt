@@ -1,9 +1,9 @@
 Logistic Regression
 
-Accuracy:          	Avg: 0.710	StdDev: 0.054
-Precision:         	Avg: 0.767	StdDev: 0.048
-Recall:            	Avg: 0.759	StdDev: 0.147
-F1:                	Avg: 0.754	StdDev: 0.069
+Accuracy:          	Avg: 0.715	StdDev: 0.047
+Precision:         	Avg: 0.761	StdDev: 0.034
+Recall:            	Avg: 0.777	StdDev: 0.139
+F1:                	Avg: 0.762	StdDev: 0.064
 
 **********************************************
 
@@ -18,10 +18,10 @@ F1:                	Avg: 0.696	StdDev: 0.073
 
 Linear Support Vector Classifier
 
-Accuracy:          	Avg: 0.704	StdDev: 0.061
-Precision:         	Avg: 0.758	StdDev: 0.037
-Recall:            	Avg: 0.759	StdDev: 0.175
-F1:                	Avg: 0.748	StdDev: 0.086
+Accuracy:          	Avg: 0.684	StdDev: 0.072
+Precision:         	Avg: 0.719	StdDev: 0.040
+Recall:            	Avg: 0.784	StdDev: 0.142
+F1:                	Avg: 0.745	StdDev: 0.075
 
 **********************************************
 
@@ -36,19 +36,19 @@ F1:                	Avg: 0.665	StdDev: 0.049
 
 Boosted Trees
 
-Accuracy:          	Avg: 0.769	StdDev: 0.019
-Precision:         	Avg: 0.775	StdDev: 0.040
-Recall:            	Avg: 0.877	StdDev: 0.056
-F1:                	Avg: 0.821	StdDev: 0.015
+Accuracy:          	Avg: 0.771	StdDev: 0.038
+Precision:         	Avg: 0.797	StdDev: 0.052
+Recall:            	Avg: 0.841	StdDev: 0.078
+F1:                	Avg: 0.816	StdDev: 0.033
 
 **********************************************
 
 Bagged Trees
 
-Accuracy:          	Avg: 0.749	StdDev: 0.028
-Precision:         	Avg: 0.765	StdDev: 0.025
-Recall:            	Avg: 0.849	StdDev: 0.101
-F1:                	Avg: 0.802	StdDev: 0.034
+Accuracy:          	Avg: 0.752	StdDev: 0.036
+Precision:         	Avg: 0.760	StdDev: 0.034
+Recall:            	Avg: 0.867	StdDev: 0.099
+F1:                	Avg: 0.807	StdDev: 0.038
 
 **********************************************
 
