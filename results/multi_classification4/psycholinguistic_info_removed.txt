@@ -18,10 +18,10 @@ F1:                	Avg: 0.344	StdDev: 0.036
 
 Linear Support Vector Classifier
 
-Accuracy:          	Avg: 0.592	StdDev: 0.049
-Precision:         	Avg: 0.425	StdDev: 0.096
-Recall:            	Avg: 0.375	StdDev: 0.051
-F1:                	Avg: 0.373	StdDev: 0.062
+Accuracy:          	Avg: 0.571	StdDev: 0.045
+Precision:         	Avg: 0.392	StdDev: 0.055
+Recall:            	Avg: 0.364	StdDev: 0.048
+F1:                	Avg: 0.362	StdDev: 0.051
 
 **********************************************
 
@@ -36,19 +36,19 @@ F1:                	Avg: 0.230	StdDev: 0.038
 
 Boosted Trees
 
-Accuracy:          	Avg: 0.617	StdDev: 0.030
-Precision:         	Avg: 0.415	StdDev: 0.052
-Recall:            	Avg: 0.397	StdDev: 0.045
-F1:                	Avg: 0.398	StdDev: 0.047
+Accuracy:          	Avg: 0.628	StdDev: 0.042
+Precision:         	Avg: 0.427	StdDev: 0.041
+Recall:            	Avg: 0.397	StdDev: 0.047
+F1:                	Avg: 0.397	StdDev: 0.043
 
 **********************************************
 
 Bagged Trees
 
-Accuracy:          	Avg: 0.597	StdDev: 0.031
-Precision:         	Avg: 0.417	StdDev: 0.032
-Recall:            	Avg: 0.360	StdDev: 0.039
-F1:                	Avg: 0.354	StdDev: 0.042
+Accuracy:          	Avg: 0.586	StdDev: 0.021
+Precision:         	Avg: 0.386	StdDev: 0.036
+Recall:            	Avg: 0.344	StdDev: 0.029
+F1:                	Avg: 0.333	StdDev: 0.034
 
 **********************************************
 
