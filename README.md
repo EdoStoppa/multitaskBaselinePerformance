@@ -2,6 +2,8 @@
 A notebook that computes, visualizes and saves the baseline performance of multiple classical Machine Learning Algorithms using the DementiaBank dataset. The full 
 explanation is found directly in the notebook, together with some numerical results.
 
+This work is published in the proceeding of the 2022 IEEE 7th Forum on Research and Technologies for Society and Industry Innovation: Stoppa, E. and Di Donato, G and Parde, N. and Santambrogio, M. "Computer-Aided Dementia Detection: How Informative are Your Features?" IEEE RTSI 2022.
+
 ## Prerequisites
 ### Data
 The data that must be used is the output of my previous project [Dementia Features Extractor](https://github.com/EdoStoppa/Dementia_Features_Extractor).
