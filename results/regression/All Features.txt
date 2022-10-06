@@ -1,0 +1,45 @@
+Ridge Regression
+
+MAE                	Avg: 3.594	StdDev: 0.302
+MSE                	Avg: 20.567	StdDev: 3.087
+RMSE               	Avg: 4.525	StdDev: 0.332
+R2                 	Avg: 0.363	StdDev: 0.085
+
+****************************************************************
+
+Support Vector Machine
+
+MAE                	Avg: 4.855	StdDev: 0.176
+MSE                	Avg: 36.980	StdDev: 4.367
+RMSE               	Avg: 6.073	StdDev: 0.349
+R2                 	Avg: -0.144	StdDev: 0.070
+
+****************************************************************
+
+Random Forest
+
+MAE                	Avg: 3.655	StdDev: 0.191
+MSE                	Avg: 20.170	StdDev: 2.070
+RMSE               	Avg: 4.486	StdDev: 0.234
+R2                 	Avg: 0.375	StdDev: 0.052
+
+****************************************************************
+
+Boosted Trees
+
+MAE                	Avg: 3.400	StdDev: 0.150
+MSE                	Avg: 18.196	StdDev: 1.435
+RMSE               	Avg: 4.263	StdDev: 0.169
+R2                 	Avg: 0.436	StdDev: 0.029
+
+****************************************************************
+
+Bagged Trees
+
+MAE                	Avg: 3.967	StdDev: 0.135
+MSE                	Avg: 22.057	StdDev: 1.533
+RMSE               	Avg: 4.694	StdDev: 0.164
+R2                 	Avg: 0.316	StdDev: 0.032
+
+****************************************************************
+

@@ -1,0 +1,54 @@
+Logistic Regression
+
+Accuracy:          	Avg: 0.756	StdDev: 0.068
+Precision:         	Avg: 0.804	StdDev: 0.034
+Recall:            	Avg: 0.788	StdDev: 0.129
+F1:                	Avg: 0.792	StdDev: 0.077
+
+**********************************************
+
+Gaussian Naive Bayes
+
+Accuracy:          	Avg: 0.662	StdDev: 0.070
+Precision:         	Avg: 0.767	StdDev: 0.058
+Recall:            	Avg: 0.636	StdDev: 0.124
+F1:                	Avg: 0.690	StdDev: 0.086
+
+**********************************************
+
+Support Vector Machine
+
+Accuracy:          	Avg: 0.595	StdDev: 0.017
+Precision:         	Avg: 0.601	StdDev: 0.010
+Recall:            	Avg: 0.978	StdDev: 0.024
+F1:                	Avg: 0.744	StdDev: 0.013
+
+**********************************************
+
+Random Forest
+
+Accuracy:          	Avg: 0.765	StdDev: 0.014
+Precision:         	Avg: 0.777	StdDev: 0.024
+Recall:            	Avg: 0.859	StdDev: 0.067
+F1:                	Avg: 0.814	StdDev: 0.019
+
+**********************************************
+
+Boosted Trees
+
+Accuracy:          	Avg: 0.767	StdDev: 0.050
+Precision:         	Avg: 0.796	StdDev: 0.051
+Recall:            	Avg: 0.834	StdDev: 0.104
+F1:                	Avg: 0.810	StdDev: 0.048
+
+**********************************************
+
+Bagged Trees
+
+Accuracy:          	Avg: 0.754	StdDev: 0.038
+Precision:         	Avg: 0.768	StdDev: 0.040
+Recall:            	Avg: 0.856	StdDev: 0.076
+F1:                	Avg: 0.807	StdDev: 0.033
+
+**********************************************
+

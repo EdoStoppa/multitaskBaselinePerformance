@@ -1,48 +1,45 @@
 Ridge Regression
 
 MAE                	Avg: 3.610	StdDev: 0.293
+MSE                	Avg: 20.557	StdDev: 2.752
 RMSE               	Avg: 4.526	StdDev: 0.297
 R2                 	Avg: 0.363	StdDev: 0.074
 
 ****************************************************************
 
-KNN Regressor
+Support Vector Machine
 
-MAE                	Avg: 4.867	StdDev: 0.208
-RMSE               	Avg: 5.822	StdDev: 0.075
-R2                 	Avg: -0.054	StdDev: 0.063
+MAE                	Avg: 4.810	StdDev: 0.118
+MSE                	Avg: 35.747	StdDev: 2.400
+RMSE               	Avg: 5.976	StdDev: 0.198
+R2                 	Avg: -0.108	StdDev: 0.020
+
+****************************************************************
+
+Random Forest
+
+MAE                	Avg: 3.700	StdDev: 0.176
+MSE                	Avg: 20.483	StdDev: 1.911
+RMSE               	Avg: 4.522	StdDev: 0.211
+R2                 	Avg: 0.365	StdDev: 0.040
 
 ****************************************************************
 
 Boosted Trees
 
-MAE                	Avg: 3.462	StdDev: 0.269
-RMSE               	Avg: 4.279	StdDev: 0.277
-R2                 	Avg: 0.430	StdDev: 0.070
+MAE                	Avg: 3.575	StdDev: 0.164
+MSE                	Avg: 19.818	StdDev: 1.496
+RMSE               	Avg: 4.449	StdDev: 0.171
+R2                 	Avg: 0.385	StdDev: 0.048
 
 ****************************************************************
 
 Bagged Trees
 
-MAE                	Avg: 3.921	StdDev: 0.201
-RMSE               	Avg: 4.666	StdDev: 0.249
-R2                 	Avg: 0.324	StdDev: 0.059
-
-****************************************************************
-
-Decision Tree
-
-MAE                	Avg: 4.056	StdDev: 0.150
-RMSE               	Avg: 5.187	StdDev: 0.133
-R2                 	Avg: 0.163	StdDev: 0.069
-
-****************************************************************
-
-SVM
-
-MAE                	Avg: 4.300	StdDev: 0.351
-RMSE               	Avg: 5.286	StdDev: 0.377
-R2                 	Avg: 0.125	StdDev: 0.156
+MAE                	Avg: 3.895	StdDev: 0.146
+MSE                	Avg: 21.301	StdDev: 2.058
+RMSE               	Avg: 4.611	StdDev: 0.225
+R2                 	Avg: 0.339	StdDev: 0.057
 
 ****************************************************************
 

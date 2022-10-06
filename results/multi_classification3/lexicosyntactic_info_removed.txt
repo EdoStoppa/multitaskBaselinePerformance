@@ -1,54 +1,78 @@
 Logistic Regression
 
-Accuracy:          	Avg: 0.604	StdDev: 0.024
-Precision:         	Avg: 0.412	StdDev: 0.156
-Recall:            	Avg: 0.369	StdDev: 0.030
-F1:                	Avg: 0.321	StdDev: 0.052
+Accuracy:          	Avg:    0.604		
+                   	StdDev: 0.024		
+Precision:         	Avg:    0.412		0.609   0.207   0.420   
+                   	StdDev: 0.156		0.016   0.293   0.214   
+Recall:            	Avg:    0.369		0.974   0.043   0.090   
+                   	StdDev: 0.030		0.025   0.054   0.076   
+F1:                	Avg:    0.321		0.749   0.070   0.143   
+                   	StdDev: 0.052		0.014   0.091   0.107   
 
 **********************************************
 
 Gaussian Naive Bayes
 
-Accuracy:          	Avg: 0.477	StdDev: 0.100
-Precision:         	Avg: 0.455	StdDev: 0.046
-Recall:            	Avg: 0.438	StdDev: 0.043
-F1:                	Avg: 0.420	StdDev: 0.066
+Accuracy:          	Avg:    0.477		
+                   	StdDev: 0.100		
+Precision:         	Avg:    0.455		0.737   0.292   0.335   
+                   	StdDev: 0.046		0.059   0.101   0.143   
+Recall:            	Avg:    0.438		0.553   0.330   0.430   
+                   	StdDev: 0.043		0.158   0.094   0.178   
+F1:                	Avg:    0.420		0.617   0.300   0.342   
+                   	StdDev: 0.066		0.098   0.083   0.098   
 
 **********************************************
 
-Linear Support Vector Classifier
+Support Vector Machine
 
-Accuracy:          	Avg: 0.551	StdDev: 0.068
-Precision:         	Avg: 0.428	StdDev: 0.042
-Recall:            	Avg: 0.430	StdDev: 0.048
-F1:                	Avg: 0.393	StdDev: 0.036
+Accuracy:          	Avg:    0.580		
+                   	StdDev: 0.012		
+Precision:         	Avg:    0.196		0.588   0.000   0.000   
+                   	StdDev: 0.003		0.008   0.000   0.000   
+Recall:            	Avg:    0.325		0.974   0.000   0.000   
+                   	StdDev: 0.005		0.015   0.000   0.000   
+F1:                	Avg:    0.245		0.734   0.000   0.000   
+                   	StdDev: 0.003		0.009   0.000   0.000   
 
 **********************************************
 
-KNN Classifier
+Random Forest
 
-Accuracy:          	Avg: 0.564	StdDev: 0.046
-Precision:         	Avg: 0.381	StdDev: 0.170
-Recall:            	Avg: 0.350	StdDev: 0.039
-F1:                	Avg: 0.319	StdDev: 0.051
+Accuracy:          	Avg:    0.597		
+                   	StdDev: 0.023		
+Precision:         	Avg:    0.514		0.632   0.355   0.555   
+                   	StdDev: 0.206		0.025   0.366   0.239   
+Recall:            	Avg:    0.381		0.945   0.052   0.147   
+                   	StdDev: 0.028		0.045   0.051   0.067   
+F1:                	Avg:    0.349		0.757   0.083   0.208   
+                   	StdDev: 0.042		0.015   0.077   0.066   
 
 **********************************************
 
 Boosted Trees
 
-Accuracy:          	Avg: 0.606	StdDev: 0.051
-Precision:         	Avg: 0.503	StdDev: 0.047
-Recall:            	Avg: 0.465	StdDev: 0.042
-F1:                	Avg: 0.468	StdDev: 0.042
+Accuracy:          	Avg:    0.577		
+                   	StdDev: 0.068		
+Precision:         	Avg:    0.455		0.700   0.335   0.330   
+                   	StdDev: 0.068		0.040   0.075   0.120   
+Recall:            	Avg:    0.428		0.802   0.272   0.209   
+                   	StdDev: 0.045		0.097   0.091   0.093   
+F1:                	Avg:    0.424		0.745   0.297   0.229   
+                   	StdDev: 0.046		0.053   0.083   0.080   
 
 **********************************************
 
 Bagged Trees
 
-Accuracy:          	Avg: 0.575	StdDev: 0.019
-Precision:         	Avg: 0.391	StdDev: 0.089
-Recall:            	Avg: 0.363	StdDev: 0.022
-F1:                	Avg: 0.336	StdDev: 0.033
+Accuracy:          	Avg:    0.597		
+                   	StdDev: 0.025		
+Precision:         	Avg:    0.462		0.642   0.430   0.313   
+                   	StdDev: 0.095		0.028   0.108   0.239   
+Recall:            	Avg:    0.409		0.883   0.194   0.151   
+                   	StdDev: 0.043		0.018   0.067   0.110   
+F1:                	Avg:    0.401		0.743   0.267   0.195   
+                   	StdDev: 0.059		0.015   0.084   0.142   
 
 **********************************************
 

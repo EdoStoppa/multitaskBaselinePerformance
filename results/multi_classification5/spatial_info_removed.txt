@@ -1,54 +1,78 @@
 Logistic Regression
 
-Accuracy:          	Avg: 0.412	StdDev: 0.055
-Precision:         	Avg: 0.335	StdDev: 0.038
-Recall:            	Avg: 0.331	StdDev: 0.050
-F1:                	Avg: 0.328	StdDev: 0.045
+Accuracy:          	Avg:    0.401		
+                   	StdDev: 0.057		
+Precision:         	Avg:    0.327		0.441   0.392   0.363   0.440   0.000   
+                   	StdDev: 0.038		0.063   0.074   0.097   0.063   0.000   
+Recall:            	Avg:    0.324		0.494   0.399   0.362   0.366   0.000   
+                   	StdDev: 0.046		0.124   0.106   0.108   0.101   0.000   
+F1:                	Avg:    0.321		0.463   0.390   0.360   0.390   0.000   
+                   	StdDev: 0.044		0.086   0.082   0.098   0.068   0.000   
 
 **********************************************
 
 Gaussian Naive Bayes
 
-Accuracy:          	Avg: 0.327	StdDev: 0.033
-Precision:         	Avg: 0.259	StdDev: 0.032
-Recall:            	Avg: 0.280	StdDev: 0.017
-F1:                	Avg: 0.256	StdDev: 0.032
+Accuracy:          	Avg:    0.327		
+                   	StdDev: 0.033		
+Precision:         	Avg:    0.259		0.333   0.328   0.274   0.358   0.000   
+                   	StdDev: 0.032		0.086   0.042   0.060   0.088   0.000   
+Recall:            	Avg:    0.280		0.401   0.300   0.162   0.536   0.000   
+                   	StdDev: 0.017		0.125   0.106   0.078   0.164   0.000   
+F1:                	Avg:    0.256		0.358   0.307   0.198   0.414   0.000   
+                   	StdDev: 0.032		0.088   0.076   0.078   0.074   0.000   
 
 **********************************************
 
-Linear Support Vector Classifier
+Support Vector Machine
 
-Accuracy:          	Avg: 0.420	StdDev: 0.021
-Precision:         	Avg: 0.346	StdDev: 0.025
-Recall:            	Avg: 0.353	StdDev: 0.022
-F1:                	Avg: 0.334	StdDev: 0.024
+Accuracy:          	Avg:    0.298		
+                   	StdDev: 0.019		
+Precision:         	Avg:    0.145		0.000   0.313   0.412   0.000   0.000   
+                   	StdDev: 0.074		0.000   0.049   0.334   0.000   0.000   
+Recall:            	Avg:    0.198		0.000   0.614   0.377   0.000   0.000   
+                   	StdDev: 0.009		0.000   0.403   0.401   0.000   0.000   
+F1:                	Avg:    0.114		0.000   0.348   0.225   0.000   0.000   
+                   	StdDev: 0.015		0.000   0.141   0.175   0.000   0.000   
 
 **********************************************
 
-KNN Classifier
+Random Forest
 
-Accuracy:          	Avg: 0.316	StdDev: 0.089
-Precision:         	Avg: 0.255	StdDev: 0.068
-Recall:            	Avg: 0.244	StdDev: 0.066
-F1:                	Avg: 0.245	StdDev: 0.066
+Accuracy:          	Avg:    0.361		
+                   	StdDev: 0.069		
+Precision:         	Avg:    0.305		0.356   0.370   0.356   0.443   0.000   
+                   	StdDev: 0.073		0.214   0.044   0.071   0.153   0.000   
+Recall:            	Avg:    0.262		0.122   0.601   0.392   0.195   0.000   
+                   	StdDev: 0.051		0.098   0.167   0.107   0.117   0.000   
+F1:                	Avg:    0.246		0.163   0.451   0.371   0.242   0.000   
+                   	StdDev: 0.046		0.098   0.082   0.083   0.114   0.000   
 
 **********************************************
 
 Boosted Trees
 
-Accuracy:          	Avg: 0.375	StdDev: 0.068
-Precision:         	Avg: 0.304	StdDev: 0.060
-Recall:            	Avg: 0.288	StdDev: 0.054
-F1:                	Avg: 0.290	StdDev: 0.055
+Accuracy:          	Avg:    0.381		
+                   	StdDev: 0.053		
+Precision:         	Avg:    0.311		0.411   0.403   0.371   0.367   0.000   
+                   	StdDev: 0.043		0.073   0.075   0.104   0.158   0.000   
+Recall:            	Avg:    0.292		0.319   0.461   0.438   0.241   0.000   
+                   	StdDev: 0.040		0.079   0.108   0.086   0.101   0.000   
+F1:                	Avg:    0.293		0.353   0.427   0.401   0.284   0.000   
+                   	StdDev: 0.040		0.057   0.081   0.097   0.113   0.000   
 
 **********************************************
 
 Bagged Trees
 
-Accuracy:          	Avg: 0.370	StdDev: 0.031
-Precision:         	Avg: 0.318	StdDev: 0.033
-Recall:            	Avg: 0.271	StdDev: 0.024
-F1:                	Avg: 0.257	StdDev: 0.030
+Accuracy:          	Avg:    0.361		
+                   	StdDev: 0.070		
+Precision:         	Avg:    0.329		0.451   0.381   0.311   0.503   0.000   
+                   	StdDev: 0.126		0.219   0.026   0.085   0.264   0.000   
+Recall:            	Avg:    0.261		0.165   0.621   0.369   0.150   0.000   
+                   	StdDev: 0.046		0.100   0.137   0.123   0.097   0.000   
+F1:                	Avg:    0.245		0.229   0.468   0.336   0.191   0.000   
+                   	StdDev: 0.047		0.131   0.059   0.100   0.084   0.000   
 
 **********************************************
 

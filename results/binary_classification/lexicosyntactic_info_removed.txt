@@ -1,9 +1,9 @@
 Logistic Regression
 
-Accuracy:          	Avg: 0.719	StdDev: 0.076
-Precision:         	Avg: 0.769	StdDev: 0.048
-Recall:            	Avg: 0.762	StdDev: 0.123
-F1:                	Avg: 0.762	StdDev: 0.079
+Accuracy:          	Avg: 0.706	StdDev: 0.065
+Precision:         	Avg: 0.755	StdDev: 0.037
+Recall:            	Avg: 0.759	StdDev: 0.118
+F1:                	Avg: 0.753	StdDev: 0.071
 
 **********************************************
 
@@ -16,39 +16,39 @@ F1:                	Avg: 0.643	StdDev: 0.082
 
 **********************************************
 
-Linear Support Vector Classifier
+Support Vector Machine
 
-Accuracy:          	Avg: 0.702	StdDev: 0.048
-Precision:         	Avg: 0.741	StdDev: 0.043
-Recall:            	Avg: 0.787	StdDev: 0.124
-F1:                	Avg: 0.758	StdDev: 0.058
+Accuracy:          	Avg: 0.593	StdDev: 0.017
+Precision:         	Avg: 0.600	StdDev: 0.010
+Recall:            	Avg: 0.975	StdDev: 0.027
+F1:                	Avg: 0.743	StdDev: 0.013
 
 **********************************************
 
-KNN Classifier
+Random Forest
 
-Accuracy:          	Avg: 0.591	StdDev: 0.051
-Precision:         	Avg: 0.642	StdDev: 0.030
-Recall:            	Avg: 0.719	StdDev: 0.100
-F1:                	Avg: 0.677	StdDev: 0.058
+Accuracy:          	Avg: 0.728	StdDev: 0.044
+Precision:         	Avg: 0.751	StdDev: 0.039
+Recall:            	Avg: 0.827	StdDev: 0.084
+F1:                	Avg: 0.784	StdDev: 0.042
 
 **********************************************
 
 Boosted Trees
 
-Accuracy:          	Avg: 0.739	StdDev: 0.048
-Precision:         	Avg: 0.773	StdDev: 0.032
-Recall:            	Avg: 0.805	StdDev: 0.098
-F1:                	Avg: 0.786	StdDev: 0.050
+Accuracy:          	Avg: 0.712	StdDev: 0.050
+Precision:         	Avg: 0.747	StdDev: 0.031
+Recall:            	Avg: 0.794	StdDev: 0.116
+F1:                	Avg: 0.766	StdDev: 0.057
 
 **********************************************
 
 Bagged Trees
 
-Accuracy:          	Avg: 0.708	StdDev: 0.028
-Precision:         	Avg: 0.728	StdDev: 0.030
-Recall:            	Avg: 0.831	StdDev: 0.096
-F1:                	Avg: 0.773	StdDev: 0.035
+Accuracy:          	Avg: 0.717	StdDev: 0.030
+Precision:         	Avg: 0.746	StdDev: 0.034
+Recall:            	Avg: 0.813	StdDev: 0.105
+F1:                	Avg: 0.774	StdDev: 0.039
 
 **********************************************
 
