@@ -1,4 +1,4 @@
-# Multitask Baseline Performance Evaluation
+# Multitask Performance Evaluation
 A notebook that computes, visualizes and saves the baseline performance of multiple classical Machine Learning Algorithms using the DementiaBank dataset. The full 
 explanation is found directly in the notebook, together with some numerical results.
 
